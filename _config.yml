@@ -7,20 +7,20 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: big-chan
 
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path: # empty string for all files
     values:
-      title: dbyll
+      title: big-chan
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
+  name: big-chan
+  email: gkseocks2@gmail.com
+  github:  big-chan
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
